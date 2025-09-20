@@ -30,8 +30,7 @@ Projeto_Bncc/
 ├── toda_bncc.py            # Script para extrair códigos do PDF da BNCC
 ├── bncc_codigos.json       # Base de dados com códigos e descrições
 ├── bncc.pdf               # Documento oficial da BNCC
-├── BNCC_Manu.txt          # Exemplo de arquivo texto gerado
-├── plano.docx             # Documento de planejamento
+├── BNCC_Resultado.txt     # Exemplo de arquivo texto gerado
 ├── plano.pdf              # Versão PDF do planejamento
 └── README.md              # Este arquivo
 ```
